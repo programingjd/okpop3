@@ -1,11 +1,15 @@
-.gradle
-build/
+/build
+*.class
+hs_err_pid*
 
-# Ignore Gradle GUI config
-gradle-app.setting
+.DS_Store
+Thumbs.db
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+/.idea
+*.iml
 
-# Cache of project
-.gradletasknamecache
+/.gradle
+
+/.hg
+
+local.properties
