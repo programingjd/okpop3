@@ -1,5 +1,5 @@
 ![jcenter](https://img.shields.io/badge/_jcenter_-_3.3.0-6688ff.png?style=flat) &#x2003; ![jcenter](https://img.shields.io/badge/_Tests_-_8/8-green.png?style=flat)
-# okrest
+# okpop3
 A simple pop3 email server for the jvm, written in groovy with [okserver](https://github.com/programingjd/okserver).
 
 ## Download ##
